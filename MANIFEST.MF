@@ -1,0 +1,4 @@
+Manifest-Versio: 1.0
+Created-By: Desarrollado por Alegre Diego R.
+Main-Class: Bienvenida
+X-COMMENT: Proyecto Final
